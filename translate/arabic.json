@@ -1,0 +1,10 @@
+{
+  "borderPage": {
+    "startMessage": "البدء"
+  },
+  "login": {
+    "welcomeMessage": "مرحبا مجدداً",
+    "welcomeNote": "قم بتسجيل الدخول للمتابعة",
+    "loginLabel": "تسجيل الدخول"
+  }
+}

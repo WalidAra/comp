@@ -1,0 +1,12 @@
+{
+  "borderPage": {
+    "startMessage": "Get Started"
+  },
+  "login": {
+    "welcomeMessage": "welcome back",
+    "welcomeNote": "Sign in to continue"
+    ,
+    "loginLabel":"login"
+  }
+}
+
